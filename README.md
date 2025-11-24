@@ -41,7 +41,7 @@ The satellite uses edge-AI to process images in real-time, detect methane leaks 
 ## Demo Video
 
 Watch our full conceptual demonstration:  
-[CloudEye Demo Video (Google Drive)](https://drive.google.com/file/d/14ocfSOq1_w4vkd5FxvHE1RRhRKrg1zAA/view?usp=drivesdk)
+[CloudEye Demo Video (Google Drive)](https://drive.google.com/file/d/1HzUEmXoXI6krcy4QVQG6H1YN8Waj5bsM/view?usp=drivesdk)
 
 ---
 
